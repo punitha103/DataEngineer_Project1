@@ -57,7 +57,8 @@ Sales_Data_Engineering_Project/
 
 - Python Programming
 - SQL Development
-- PySpark
+- PySpark<img width="925" height="495" alt="final_sales_dashboard" src="https://github.com/user-attachments/assets/ae5980dc-cdec-4f0e-9383-b3a52c7f8c7d" />
+
 - ETL & ELT
 - Data Warehousing
 - Data Modeling
@@ -71,4 +72,3 @@ Punitha S
 
 ---
 
-⭐ If you found this project useful, feel free to explore the repository.
